@@ -1,2 +1,2 @@
 # Estudo_1
-Prova técnica Petrobras_23_24
+Prova Técnica de Instrumentação Petrobras_23_24
