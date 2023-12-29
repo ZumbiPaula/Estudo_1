@@ -1,6 +1,7 @@
 body {
   background-color: #333232;
-  color: #ddd;
+  /* color: #ddd; */
+  color:rgb(215, 207, 207);
   margin: 0;
   padding: 0;
 }
@@ -88,12 +89,14 @@ body {
 }
 
 .assinatura {
-  font: "Consolas";
+  font-family: "Script MT";
+  color:rgb(210, 204, 204);
   position: absolute;
   right: 10px;
   bottom: 10px;
 }
-h6 {
+h4,
+h5 {
   text-align: center;
   margin: 0;
 }
