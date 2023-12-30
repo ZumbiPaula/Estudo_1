@@ -97,6 +97,21 @@ body {
 }
 h4,
 h5 {
+  color:#b8baba;
   text-align: center;
   margin: 0;
+}
+
+a { color: inherit; }
+/* a:link {
+   color: red;
+} */
+a:visited {
+    color: green;
+}
+a:hover {
+    color: #000000;
+}
+a:active {
+    color: blue;
 }
