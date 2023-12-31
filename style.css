@@ -103,9 +103,10 @@ h5 {
 }
 
 a { color: inherit; }
-/* a:link {
-   color: red;
-} */
+
+a:link {
+   color: #b8baba;
+}
 a:visited {
     color: green;
 }
