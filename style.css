@@ -1,15 +1,15 @@
 body {
-  background-color: #333232;
-  /*color: #ddd; */
-  color:rgb(215, 207, 207);
+  background-color: #323232;
+  color:#b8baba;
   margin: 0;
   padding: 0;
 }
+
 .mm-toolbar {
   --tw-text-opacity: 1;
   --tw-bg-opacity: 1;
   align-items: center;
-  background-color: #333232;
+  background-color: #323232;
   color: #fff;
   border-color: rgb(209 213 219 / var(--tw-border-opacity));
   border-radius: 0.25rem;
@@ -90,7 +90,7 @@ body {
 
 .assinatura {
   font-family: "Script MT";
-  color:rgb(210, 204, 204);
+  /* color:rgb(210, 204, 204); */
   position: absolute;
   right: 10px;
   bottom: 10px;
